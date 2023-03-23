@@ -108,6 +108,9 @@ color: #ffffffa8;
     text-decoration: underline;
 }
 
+.login--button:hover{
+    background-image: linear-gradient( 1220deg,rgba(204, 34, 34, 0.37),rgba(14, 10, 238, 0.658),rgba(111, 120, 245, 0.377));
+}
 .login--button{
     padding: 20px 5px;
     border-radius: 17px; 
