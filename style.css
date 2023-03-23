@@ -51,6 +51,8 @@ form input {
     border-right: none;
     border-bottom: 1px solid #ffffff;
     outline: none;
+   color: #e4dfdfc2;
+   font-size: 18px;
 }
 
 .form-main{
