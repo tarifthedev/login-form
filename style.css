@@ -13,7 +13,6 @@
     align-items: center;
     justify-content: center;
     background-image: linear-gradient(140deg,rgba(165, 16, 16, 0.473),rgba(21, 127, 168, 0.788));
-
 }
 form{
     background-image: linear-gradient( 2099deg,rgba(58, 112, 211, 0.411),rgba(182, 64, 64, 0.733),rgba(45, 33, 211, 0.432));
@@ -22,7 +21,7 @@ form{
     font-size: 18px;  
     /* border: 2px solid white; */
     border-radius: 50px;
-    
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.247) ;    
 }
 
 .form-main{
@@ -121,7 +120,7 @@ color: #ffffffa8;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    font-size: 19px;
    color: #ffffff;
-   box-shadow: 2px 4px  rgba(0, 0, 0, 0.096);
+   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.096);
   background-image: linear-gradient( 1220deg,rgba(255, 0, 0, 0.171),rgba(14, 10, 238, 0.658),rgba(111, 169, 245, 0.171));
 
 }
