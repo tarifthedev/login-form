@@ -1,0 +1,82 @@
+h2{
+  margin-left:40px;
+  font-size: 40px;
+}
+
+
+
+
+.outer,
+.inner {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 50px;
+    border:2px solid yellow;
+}
+
+.outer {
+    margin-left: 100px;
+    background-color: rgba(137, 43, 226, 0.603);  
+}
+
+.inner  {
+    box-shadow: 5px 5px  5px rgba(0, 0, 0, 0.603);
+    background-color: aqua;
+    transition: transform 5s ;
+   
+}
+
+.inner:hover{
+    width: 400px;
+    height: 400px;
+    transform:translate(170px) rotate(720.5deg) scale(0.88);
+}
+
+.text{
+    white-space: nowrap;
+    border: 2px solid rgb(0, 0, 0);
+    width: 100px;
+    overflow: hidden; 
+    margin-left: 130px;
+}
+
+.tr{
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.buri{
+    width: 150px;
+    height: 150px;
+}
+
+
+.buri:hover{
+    width: 400px;
+    height: 400px;
+}
+
+
+.amma{
+    width: 150px;
+    height: 150px;
+}
+
+.amma:hover{
+    width: 400px;
+    height: 400px;
+}
+
+.apa{
+     width: 150px;
+    height: 150px;
+}
+
+.apa:hover{
+    width: 400px;
+    height: 400px;
+}
+
+
+
+
